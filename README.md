@@ -34,7 +34,7 @@ julia --project deps/build.jl install
 ~/.julia/bin/wannier
 ```
 
-にinstallされると書いてあるが自分の環境ではwannierがwjlになっていた。)
+にinstallされると書いてあるが自分の環境(Wannier.jlのversionが0.4.0)ではwannierがwjlになっていた。)
 
 ## **Automated mixing of maximally localized Wannier functions into target manifoldsの実行方法**
 
