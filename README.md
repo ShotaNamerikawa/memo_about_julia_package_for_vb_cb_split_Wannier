@@ -59,12 +59,11 @@ wannier splitvc --config <toml file>
 
 を実行するとよいかも。
 
-8つのバンドを3グループに分けそれぞれのグループにWannierizationを行う場合の
+例として、8つのバンドを3グループに分けそれぞれのグループにWannierizationを行う場合の
 インプットファイルの中身は
 
 ```toml
 indices = [ [ 1, 2,], [ 3, 4, 5, 6,], [ 7, 8,], ]
 outdirs = [ "val_1", "val_2", "cond_3",]
 ```
-
-のようになる。
+とする。
