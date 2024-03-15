@@ -4,7 +4,7 @@
 
 # 目的
 
-Julia言語のパッケージの1つである、https://github.com/qiaojunfeng/Wannier.jl(以下左のリンクのページを公式ページと呼ぶ)のcliの使い方のメモを載せる。cliはインストールしてしまえばJuliaの知識なしで使える。
+Wannierizationを実行するためのJulia言語のパッケージの[https://github.com/qiaojunfeng/Wannier.jl](https://github.com/qiaojunfeng/Wannier.jl)(以下左のリンクのページを公式ページと呼ぶ)のcliの使い方のメモを載せる。cliはインストールしてしまえばJuliaの知識なしで使える。
 
 Wannier.jlで使える重要な機能の一つが**Automated mixing of maximally localized Wannier functions into target manifolds** 
 
@@ -15,7 +15,7 @@ Wannier.jlで使える重要な機能の一つが**Automated mixing of maximally
 # 実行手順
 
 1. Juliaをインストールする。(インストーラーとしては[https://github.com/JuliaLang/juliaup](https://github.com/JuliaLang/juliaup)などがある。)
-2. https://github.com/qiaojunfeng/Wannier.jlのページのReadme.mdのInstallationに従い、pkgでWannier.jlをインストールする。
+2. [https://github.com/qiaojunfeng/Wannier.jl](https://github.com/qiaojunfeng/Wannier.jl)のページのReadme.mdのInstallationに従い、pkgでWannier.jlをインストールする。
 3. CLIをインストールする。公式ページでは
 
 ```bash
