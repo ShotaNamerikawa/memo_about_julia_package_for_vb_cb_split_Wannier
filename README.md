@@ -24,7 +24,7 @@ julia --project deps/build.jl install
 
 でインストール可能と書いてあるが、このdepsはJuliaがインストールされたディレクトリの
 
-/packages/Wannier/package_number下にある。
+/packages/Wannier/package_hash下にある。
 
 1. installされたcliコマンドを実行する。
 
